@@ -1,0 +1,13 @@
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.csprojAssemblyReference.cache
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.GUI.resources
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.Properties.Resources.resources
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.csproj.GenerateResource.cache
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\bin\Debug\CFAnalyzer.exe
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\bin\Debug\CFAnalyzer.pdb
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.csproj.CopyComplete
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.exe
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\obj\Debug\CFAnalyzer.pdb
+C:\Users\zulam\source\repos\CFAnalyzer\CFAnalyzer\bin\Debug\CFAnalyzer.exe.config
